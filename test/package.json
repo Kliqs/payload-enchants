@@ -21,7 +21,7 @@
     "@payload-enchants/docs-reorder": "workspace:*",
     "@payload-enchants/fields-select": "workspace:*",
     "@payload-enchants/seo": "workspace:*",
-    "@payload-enchants/translator": "workspace:*",
+    "@extravirgin/payload-enchants-translator": "workspace:*",
     "@payloadcms/db-mongodb": "3.1.0",
     "@payloadcms/db-postgres": "3.1.0",
     "@payloadcms/next": "3.1.0",
