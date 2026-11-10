@@ -1,3 +1,10 @@
+> **Archived company fork.** Maintenance and npm releases of
+> `@extravirgin/payload-enchants-translator` have moved to
+> [Kliqs/payload-enchants-translator](https://github.com/Kliqs/payload-enchants-translator).
+> Please open translator issues and pull requests in the new repository.
+> This repository is retained for historical reference. For the upstream monorepo,
+> see [r1tsuu/payload-enchants](https://github.com/r1tsuu/payload-enchants).
+
 # Payload 3.0 enchantment packages
 
 ## Packages list:
